@@ -1,0 +1,5 @@
+,TileID,Network_Path,URI
+0,t19480074,/mnt/datacube/outbox/wetland_inventory/composites/sen2/stage03/19/TGJ/tile19480074/sen2_l2a_img00fillavg_y2019y2020_t19480074.tif,gs://cnwi-cloud-backed-assets/wetland_inventory/composites/sen2/stage03/19/TGJ/tile19480074/sen2_l2a_img00fillavg_y2019y2020_t19480074.tif
+1,t19480077,/mnt/datacube/outbox/wetland_inventory/composites/sen2/stage03/19/TGJ/tile19480077/sen2_l2a_img00fillavg_y2019y2020_t19480077.tif,gs://cnwi-cloud-backed-assets/wetland_inventory/composites/sen2/stage03/19/TGJ/tile19480077/sen2_l2a_img00fillavg_y2019y2020_t19480077.tif
+2,t19480078,/mnt/datacube/outbox/wetland_inventory/composites/sen2/stage03/19/TGJ/tile19480078/sen2_l2a_img00fillavg_y2019y2020_t19480078.tif,gs://cnwi-cloud-backed-assets/wetland_inventory/composites/sen2/stage03/19/TGJ/tile19480078/sen2_l2a_img00fillavg_y2019y2020_t19480078.tif
+3,t19481074,/mnt/datacube/outbox/wetland_inventory/composites/sen2/stage03/19/TGJ/tile19481074/sen2_l2a_img00fillavg_y2019y2020_t19481074.tif,gs://cnwi-cloud-backed-assets/wetland_inventory/composites/sen2/stage03/19/TGJ/tile19481074/sen2_l2a_img00fillavg_y2019y2020_t19481074.tif
